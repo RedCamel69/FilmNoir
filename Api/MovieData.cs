@@ -31,6 +31,13 @@ namespace BlazorApp.Api
                 Name = "A Kiss Before Dying",
                 Description = "1956 American color film noir,[1] directed by Gerd Oswald in his directorial debut.",
                 Year = 1956
+            },
+              new Movie
+            {
+                Id = 30,
+                Name = "Tomorrow Is Another Day",
+                Description = "1951 American film noir,[1] directed by Felix E. Feist.",
+                Year = 1951
             }
         };
 
