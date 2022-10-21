@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BlazorApp.Shared
+build_property.ProjectDir = C:\Users\nuc1\source\repos\QuizMaster\Shared\

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace BlazorApp.Api
+namespace QuizMaster.Api
 {
     public class MoviesGet
     {

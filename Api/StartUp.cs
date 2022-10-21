@@ -1,4 +1,4 @@
-﻿using BlazorApp.Api;
+﻿using QuizMaster.Api;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
