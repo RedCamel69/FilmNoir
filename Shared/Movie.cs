@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QuizMaster.Shared
+namespace BlazorApp.Shared
 {
     public class Movie
     {
